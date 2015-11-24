@@ -5,7 +5,7 @@
 * [Schedule](#schedule)
 
 
-**From the volunteers and organisers of ContentMine and DNAdigest comes a new hackday!**
+**Workshop on 10 Dec 2015, 09:30-16:30, with optional hackathon at EMBL-EBI on 11 Dec 2015 (separate booking required)**
 
 Tickets available [here](http://onlinesales.admin.cam.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=332&catid=1081&prodid=1484).
 
@@ -19,18 +19,18 @@ This workshop is offered at a heavily subsidised rate of £10 including lunch an
 
 ## Event Details
 
-- **Start:** 11 December 2015 9:30 am
-- **End:** 11 December 2015 4:30 pm - [add to calendar](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913#add-to-calendar-modal)
-- **Venue:** Garden Room - European Bioinformatics Institute (EMBL-EBI). Wellcome Genome Campus, Hinxton. Cambridge CB10 1SD GB - [view on map](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913#map-target)
-- **Tickets** available [here](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913).
-- **Host:** [DNAdigest](http://dnadigest.org/)
+- **Start:** 10 December 2015 9:30 am
+- **End:** 10 December 2015 4:30 pm - [add to calendar](https://www.eventbrite.co.uk/e/dnadigest-and-contentmine-hackday-tickets-19378933913#add-to-calendar-modal)
+- **Venue:** The Hauser Forum, Seminar Room 1, 3 Charles Babbage Road, Cambridge, CB3 0GT - [view on map](https://www.google.co.uk/maps/search/Seminar+Room+1,+The+Hauser+Forum,+3+Charles+Babbage+Road,+Cambridge+CB3+0GT/data=!4m2!2m1!4b1)
+- **Tickets** available [here](http://onlinesales.admin.cam.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=332&catid=1081&prodid=1484).
+- **Host:** [who?]()
 - **Facilitators:**
 	- N.N ([@](https://twitter.com/))
 	- N.N ([@](https://twitter.com/))
 - **Language:** English
-- [Pad](http://pads.cottagelabs.com/p/2015-12-11-dnadigest)
+- [Pad](http://pads.cottagelabs.com/p/2015-12-10-lifesciences)
 - [Slides]()
-- [ContentMine.org](http://contentmine.org/events/event/dnadigest-and-contentmine-hackday/) 
+- [ContentMine.org](http://contentmine.org/events/event/contentmine-workshop-mining-for-the-life-sciences/) 
 - hashtag: [](https://twitter.com/hashtag/TAGHERE?src=hash)
 
 Please take 3 minutes and fill out our [evaluation form](https://docs.google.com/forms/d/13BsoUTHnYbYn1JDYyiF_pLbrxubgVKktvDzvkl7WCgM/viewform) after the workshop.
