@@ -52,9 +52,19 @@ Copyright-holder for all works is the [Shuttleworth Foundation](http://shuttlewo
 
 | Time          | Agenda       | Description                                                            |
 |---------------|--------------|------------------------------------------------------------------------|
-| 9:30 AM - : | Introduction | Introduction into the workshop and ContentMine.                        |
-| : - 4:30 PM | Closing |                         |
-
+| 9:30 AM - 10:00 AM | Introduction | Introduction into the workshop and ContentMine                        |
+| 10:00 AM - 10:30 AM | Legal & Responsible Mining |
+| 10:30 AM - 10:50 AM | How to work with ContentMine tools |
+| 10:50 AM - 11:00 AM | Coffee Break |
+| 11:00 AM - 11:45 AM | Building a corpus with getpapers |
+| 11:45 AM - 12:15 AM | sHTML and normalization |
+| 12:15 AM - 1:15 PM | Lunch Break |
+| 1:15 PM - 2:15 PM | extracting facts with AMI |
+| 2:15 PM - 3:00 PM | on demand: regular expressions with ami-regex |
+| 3:00 PM - 3:10 PM | Coffee Break |
+| 3:10 PM - 3:55 PM | Facts in context with Jupyter notebooks |
+| 3:55 PM - 4:20 PM | free exploration with help |
+| 4:20 PM - 4:30 PM | Wrap-up |
 
 ## Contribute
 
