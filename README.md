@@ -25,13 +25,13 @@ This workshop is offered at a heavily subsidised rate of £10 including lunch an
 - **Tickets** available [here](http://onlinesales.admin.cam.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=332&catid=1081&prodid=1484).
 - **Host:** [who?]()
 - **Facilitators:**
-	- Peter Murray-Rust ([@](https://twitter.com/petermurrayrust))
-	- N.N ([@](https://twitter.com/))
+	- Peter Murray-Rust ([@petermurrayrust](https://twitter.com/petermurrayrust))
+	- Jenny Molloy ([@jenny_molloy ](https://twitter.com/jenny_molloy ))
 - **Language:** English
 - [Pad](http://pads.cottagelabs.com/p/2015-12-10-lifesciences)
-- [Slides]()
+- <!--[Slides]()-->
 - [ContentMine.org](http://contentmine.org/events/event/contentmine-workshop-mining-for-the-life-sciences/) 
-- hashtag: [](https://twitter.com/hashtag/TAGHERE?src=hash)
+- hashtag: [#cmlife](https://twitter.com/hashtag/cmlife?src=hash)
 
 Please take 3 minutes and fill out our [evaluation form](https://docs.google.com/forms/d/13BsoUTHnYbYn1JDYyiF_pLbrxubgVKktvDzvkl7WCgM/viewform) after the workshop.
 
