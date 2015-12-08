@@ -25,8 +25,8 @@ This workshop is offered at a heavily subsidised rate of £10 including lunch an
 - **Tickets** available [here](http://onlinesales.admin.cam.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=332&catid=1081&prodid=1484).
 - **Host:** [who?]()
 - **Facilitators:**
-	- N.N ([@](https://twitter.com/))
-	- N.N ([@](https://twitter.com/))
+	- Jenny Molloy ([@jenny_molloy](https://twitter.com/jenny_molloy))
+	- Peter Murray-Rust ([@petermurrayrust](https://twitter.com/petermurrayrust))
 - **Language:** English
 - [Pad](http://pads.cottagelabs.com/p/2015-12-10-lifesciences)
 - [Slides]()
