@@ -23,13 +23,11 @@ This workshop is offered at a heavily subsidised rate of £10 including lunch an
 - **End:** 10 December 2015 4:30 pm
 - **Venue:** The Hauser Forum, Seminar Room 1, 3 Charles Babbage Road, Cambridge, CB3 0GT - [view on map](https://www.google.co.uk/maps/search/Seminar+Room+1,+The+Hauser+Forum,+3+Charles+Babbage+Road,+Cambridge+CB3+0GT/data=!4m2!2m1!4b1)
 - **Tickets** available [here](http://onlinesales.admin.cam.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=332&catid=1081&prodid=1484).
-- **Host:** [who?]()
 - **Facilitators:**
 	- Peter Murray-Rust ([@petermurrayrust](https://twitter.com/petermurrayrust))
 	- Jenny Molloy ([@jenny_molloy ](https://twitter.com/jenny_molloy ))
 - **Language:** English
 - [Pad](http://pads.cottagelabs.com/p/2015-12-10-lifesciences)
-- <!--[Slides]()-->
 - [ContentMine.org](http://contentmine.org/events/event/contentmine-workshop-mining-for-the-life-sciences/) 
 - hashtag: [#contentminelife](https://twitter.com/hashtag/contentminelife?src=hash)
 
