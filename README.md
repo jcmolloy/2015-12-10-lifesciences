@@ -54,12 +54,13 @@ Welcome!
 |---------------|--------------|
 | 9:30 AM - 10:00 AM | [Introduction](https://github.com/ContentMine/workshop-resources/blob/master/training-modules/A-About-ContentMine) |
 | 10:00 AM - 10:30 AM | [Legal & Responsible Mining](https://github.com/ContentMine/workshop-resources/blob/master/training-modules/A-Legal-Responsible) |
-| 10:30 AM - 10:50 AM | [How to work with ContentMine tools](https://github.com/ContentMine/workshop-resources/blob/master/training-modules/B-VM-Commandline) |
-| 10:50 AM - 11:00 AM | Coffee Break |
+| 10:30 AM - 10:50 AM | Coffee Break |
+| 10:50 AM - 11:00 AM | [How to work with ContentMine tools](https://github.com/ContentMine/workshop-resources/blob/master/training-modules/B-VM-Commandline) |
 | 11:00 AM - 11:45 AM | [Building a corpus with getpapers](https://github.com/ContentMine/workshop-resources/blob/master/training-modules/B-Building-corpus) |
 | 11:45 AM - 12:15 AM | [sHTML and normalization](https://github.com/ContentMine/workshop-resources/blob/master/training-modules/B-Normalization) |
-| 12:15 AM - 1:15 PM | Lunch Break |
-| 1:15 PM - 2:15 PM | [extracting facts with AMI](https://github.com/ContentMine/workshop-resources/blob/master/training-modules/B-Fact-Extraction) |
+| 12:15 AM - 1:00 PM | [extracting facts with AMI](https://github.com/ContentMine/workshop-resources/blob/master/training-modules/B-Fact-Extraction) |
+| 1:00 PM - 2:00 PM |Lunch Break |
+| 2:00 PM - 2:15 PM | [more on extracting facts with AMI](https://github.com/ContentMine/workshop-resources/blob/master/training-modules/B-Fact-Extraction) |
 | 2:15 PM - 3:00 PM | on demand: [regular expressions with ami-regex](https://github.com/ContentMine/workshop-resources/blob/master/training-modules/C-Regex) |
 | 3:00 PM - 3:10 PM | Coffee Break |
 | 3:10 PM - 3:55 PM | [Facts in context with Jupyter notebooks](https://github.com/ContentMine/workshop-resources/tree/master/training-modules/B-Working-with-Facts) |
