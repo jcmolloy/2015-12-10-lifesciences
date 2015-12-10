@@ -46,6 +46,8 @@ Copyright-holder for all works is the [Shuttleworth Foundation](http://shuttlewo
 - License for text, slides and images: CC BY 4.0
 - License for code: MIT
 
+Welcome!
+
 ## Schedule
 
 | Time          | Agenda       |
