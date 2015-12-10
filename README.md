@@ -31,7 +31,7 @@ This workshop is offered at a heavily subsidised rate of £10 including lunch an
 - [ContentMine.org](http://contentmine.org/events/event/contentmine-workshop-mining-for-the-life-sciences/) 
 - hashtag: [#contentminelife](https://twitter.com/hashtag/contentminelife?src=hash)
 
-Please take 3 minutes and fill out our [evaluation form](https://docs.google.com/forms/d/13BsoUTHnYbYn1JDYyiF_pLbrxubgVKktvDzvkl7WCgM/viewform) after the workshop.
+Please take a few minutes and fill out our [evaluation form](https://docs.google.com/forms/d/1jVBuSfNrP2FG-v6_-43wrb--DH2HCZctxB7e333PeiA/viewform) after the workshop.
 
 **ContentMine**
 - [ContentMine.org](http://contentmine.org/)
